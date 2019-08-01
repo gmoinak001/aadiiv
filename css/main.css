@@ -778,10 +778,11 @@ h2.reach-us-heading:before {
 }
 
 .btn {
-  color: #ff6247;
+  color: #1D8DB3;
   font-family: 'OstrichSans', sans-serif;
   font-size: 24px;
   display: block;
+  font-weight: 800;
   padding: 10px;
   padding-left: 20px;
   box-sizing: border-box;
@@ -1338,8 +1339,7 @@ p.address {
 }
 
     .footer-nav-panel li {
-      float: left;
-
+      float: center;
       margin: 0px 15px;
 }
 
